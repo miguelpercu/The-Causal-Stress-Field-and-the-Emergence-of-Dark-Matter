@@ -1,0 +1,30 @@
+
+UCP Causal Dark Matter (MOC) - Executive Analysis
+Date: 2025-11-03 17:20:49
+Framework: Unified Causal Principle (UCP)
+
+-----------------------------------------------------------------------------------------
+1. FUNDAMENTAL CONSTANTS
+-----------------------------------------------------------------------------------------
+- Causal Coherence Constant (kappa_crit): 1.00e-78 (Dimensionless)
+- UCP Acceleration Threshold (A_UCP): 1.20e-10 m/s^2
+
+-----------------------------------------------------------------------------------------
+2. CAUSAL HYPOTHESIS SUMMARY
+-----------------------------------------------------------------------------------------
+The UCP posits that 'Dark Matter' is the geometric consequence of spacetime enforcing Causal 
+Homeostasis to prevent catastrophic failure (Singularity/Black Hole) in high-density regions.
+The Causal Interpolation Function (mu_UCP) guarantees that the local acceleration (a_obs) 
+does not fall below A_UCP, which is the physical manifestation of the Causal Stress Field.
+
+-----------------------------------------------------------------------------------------
+3. SIMULATION RESULTS (Galactic Periphery)
+-----------------------------------------------------------------------------------------
+- Predicted Flat Rotation Velocity (Avg R > 40 kpc): 513.70 km/s
+- Newtonian Velocity at 100 kpc: 65.77 km/s
+- Implication: The difference between the predicted velocity (513.70 km/s) and the 
+  Newtonian prediction (65.77 km/s) is entirely attributed to the UCP's 
+  correction factor (Materia Oscura Causal).
+- Conclusion: The UCP successfully reproduces the flat rotation curve kinematics from the 
+  fundamental constant kappa_crit, without requiring non-baryonic particles.
+-----------------------------------------------------------------------------------------
